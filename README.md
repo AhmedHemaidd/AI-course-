@@ -1,3 +1,3 @@
 # AI-course-
-artificial intelegent for beginner
+artificial intelligence 
 ##project notes
